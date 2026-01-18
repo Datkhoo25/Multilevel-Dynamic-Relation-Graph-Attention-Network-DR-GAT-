@@ -59,3 +59,10 @@ The repository includes additional data processing functions to handle missing d
 ## Model Checkpoints
 
 The `checkpoints/` directory contains the saved model checkpoints for different stages of training. These checkpoints can be used to resume training or for evaluation purposes.
+
+
+## Result
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/699859fd-d204-45ec-bd2d-3eb48797993a" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4eaca371-9ef6-4952-8ad8-c33f1e823e1d" />
+
