@@ -30,7 +30,9 @@ The repository is organized as follows:
 `: Jupyter notebook for MASS (Mueen's Algorithm for Similarity Search)
  generated dynamic GAT with short and long-term adjacency matrix------> Research Objective 1
 - `Base_Model_4_DTW_GRU_(Residual)w_Dynamic_+_Fixed_GAT_+_HP(WS10)(IRR_MRR_20).ipynb
-`: Jupyter notebook for Custom Dynamic Time Wrapping generated dynamic GAT with short and long-term adjacency matrix------> Research Objective 1 (Best model)
+`: Jupyter notebook for Custom Dynamic Time Wrapping generated dynamic GAT with short and long-term adjacency matrix------> Research Objective 1 (Best model 1)
+- `Published Best Model Base Model 5_DTW_GRU with bpr Loss_(Residual)w Dynamic + Fixed GAT + HP(WS10)(IRR_MRR_20).ipynb
+`: Jupyter notebook for Custom Dynamic Time Wrapping generated dynamic GAT with short and long-term adjacency matrix, empoying Bayasian Personalized Loss------> Research Objective 2 (Best model 2): Ready for Publishement
 
 
 
